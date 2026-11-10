@@ -1,102 +1,58 @@
 <div align="center">
-👋 Hi, I'm Riyad Ahmed Sagor
-🚀 Software Engineer (Flutter) | Mobile App Architect | Problem Solver
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Flutter+Developer;Clean+Architecture+Advocate;Scalable+Mobile+App+Builder;Performance+Optimization+Focused;Always+Learning+New+Technologies" /> </div>
-💫 About Me
 
-I design and build high-performance mobile applications with Flutter — focusing on clean architecture, scalability, and real-world usability. I turn complex product ideas into smooth and maintainable digital experiences.
+# Hi, I'm Riyad Ahmed Sagor 👋
 
-💼 Software Engineer at AppifyLab
-🎓 B.Sc. Computer Science & Engineering — Leading University
-📱 Production apps serving 10,000+ active users
-⚡ Performance optimization & crash reduction specialist
-🤝 Agile team collaboration & scalable architecture
+**Software Engineer (Flutter) at [AppifyLab](https://github.com/AppifyLab)** · Sylhet, Bangladesh
 
-🧠 Tech Stack
-<div align="center">
-📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,vscode" />
-🧩 Architecture & State Management
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Flutter+Developer;Clean+Architecture+Advocate;Shipping+to+Play+Store+%26+App+Store" alt="Typing banner" />
 
-Riverpod • Bloc • Provider • MVVM • Clean Architecture • Repository Pattern
-
-☁ Backend & Cloud
-<img src="https://skillicons.dev/icons?i=firebase,python,fastapi,mysql" />
-⚙ Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,figma" /> </div>
-🚀 Professional Impact
-
-✔ Delivered production features used by 10k+ users
-✔ Integrated 15+ REST APIs with robust architecture
-✔ Reduced mobile app crashes by 40%
-✔ Improved user retention by 25%
-✔ Reduced load time by 30%
-✔ Published apps on Google Play Store and Apple App Store
-
-🌟 Featured Projects
-🎓 EzyCourse — B2B Learning Platform
-
-Enterprise SaaS platform powering course creators with real-time collaboration.
-
-📰 NewsSip — News in 60 Words
-
-Real-time personalized bite-sized news system.
-
-👥 EzyCourse Community Platform
-
-Social learning platform for student engagement.
-
-🏥 Sheba AI — Medical Assistant
-
-AI-powered healthcare support application.
-
-🐟 Fish Disease Detection
-
-Computer vision powered disease identification.
-
-✍ Connect — Social Blogging Platform
-
-Real-time blogging ecosystem with engagement features.
-
-🎓 LU Insights — Campus Companion
-
-Student hub for academic resources and campus life.
-
-🌐 Flutter Portfolio Website
-
-Fully responsive portfolio built with Flutter Web.
-
-📊 GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=riyad-from-space&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyad-from-space&layout=compact&theme=tokyonight" /> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=riyad-from-space&theme=tokyonight" /> </div>
-🏆 Achievements & Focus
-
-🚀 Scalable Mobile Architecture
-📲 Production Deployment & Optimization
-🧩 Clean Code & Maintainability
-⚡ Performance Engineering
-🤖 AI + Mobile Integration
-
-🌐 Connect With Me
-<div align="center">
-
-💻 GitHub → https://github.com/riyad-from-space
-
-💼 LinkedIn → https://www.linkedin.com/in/riyadfromspace/
-
-📧 Email → ahmedriyad10186@gmail.com
-
-</div>
-👀 Profile Visitors
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=riyad-from-space&style=for-the-badge" /> </div>
-💬 Developer Philosophy
-
-“Build solutions that scale, perform, and truly help people.”
-
-<div align="center">
-
-⭐ If you like my work, consider following me and starring my repositories!
+[![Portfolio](https://img.shields.io/badge/Portfolio-riyad--portfolio-F75C7E?style=flat-square&logo=firebase&logoColor=white)](https://riyad-portfolio-f18db.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riyadfromspace-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyadfromspace/)
+[![Email](https://img.shields.io/badge/Email-ahmedriyad10186-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedriyad10186@gmail.com)
 
 </div>
 
+## About me
+
+I build production Flutter apps with clean architecture, predictable state management, and an eye on performance. I like turning messy product ideas into apps that are easy to maintain and pleasant to use.
+
+- 💼 Software Engineer at **AppifyLab**, working on the EzyCourse platform
+- 🎓 B.Sc. in Computer Science & Engineering, Leading University
+- 📱 Shipped features to **10,000+ active users** on Google Play and the App Store
+- ⚡ Cut app crashes by **40%** and load times by **30%**; helped lift retention by **25%**
+- 🔌 Integrated 15+ REST APIs behind clean, testable repository layers
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,fastapi,ts,nextjs,supabase,mysql,git,github,figma,androidstudio,vscode" alt="Flutter, Dart, Firebase, Python, FastAPI, TypeScript, Next.js, Supabase, MySQL, Git, GitHub, Figma, Android Studio, VS Code" />
+</p>
+
+**Architecture & state:** Clean Architecture · MVVM · Repository pattern · Riverpod · Bloc · Provider · GoRouter · Freezed
+
+## Featured projects
+
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| 🎓 **EzyCourse** | SaaS learning platform for 1,000+ course creators and their students | Flutter · Bloc · REST · CI/CD | [App Store](https://apps.apple.com/fi/app/ezycourse/id6443599486) · [Play Store](https://play.google.com/store/apps/details?id=com.ezycourse.ezycourse) |
+| 📰 **NewsSip** | The news in 60 words: short, personalised, real-time | Flutter · Bloc · Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.heapiphy.newssip) |
+| 👥 **EzyCourse Community** | Feeds, channels and comments for creator communities | Flutter · Riverpod · Clean Architecture | [Code](https://github.com/riyad-from-space/Ezycourse-Community) |
+| ✍️ **Connect** | Social blogging app with real-time chat, AI summaries and text-to-speech | Flutter · Riverpod · Firebase | [Code](https://github.com/riyad-from-space/Connect) |
+| 🐟 **Fish Disease Detection** | Photo-based diagnosis of 7 fish diseases, with treatment advice | Flutter · FastAPI · InceptionV3 | [App](https://github.com/riyad-from-space/Fish-Disease-Detection-App) · [API](https://github.com/riyad-from-space/fish-disease-api) |
+| 🏥 **Sheba AI** | Reads handwritten prescriptions with OCR and manages medications | Flutter · Riverpod · AI | [Code](https://github.com/Noctambulist007/Sheba_AI) |
+| ⚽ **eFootball Manager** | Tournament site with live fixtures, standings and a knockout bracket | Next.js · TypeScript · Supabase | [Code](https://github.com/riyad-from-space/eFootball-Management) |
+| 🏫 **LU Insights** | Campus companion: bus schedules, live tracking, clubs, exam materials | Flutter · Riverpod · Firebase | [Code](https://github.com/riyad-from-space/LU-Insights) |
+
+## GitHub activity
+
+<p>
+  <img height="165" src="https://streak-stats.demolab.com/?user=riyad-from-space&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+<div align="center">
+
+*"Build solutions that scale, perform, and truly help people."*
+
+</div>
