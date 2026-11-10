@@ -41,7 +41,7 @@ I build production Flutter apps with clean architecture, predictable state manag
 | 🐟 **Fish Disease Detection** | Photo-based diagnosis of 7 fish diseases, with treatment advice | Flutter · FastAPI · InceptionV3 | [App](https://github.com/riyad-from-space/Fish-Disease-Detection-App) · [API](https://github.com/riyad-from-space/fish-disease-api) |
 | 🏥 **Sheba AI** | Reads handwritten prescriptions with OCR and manages medications | Flutter · Riverpod · AI | [Code](https://github.com/Noctambulist007/Sheba_AI) |
 | ⚽ **eFootball Manager** | Tournament site with live fixtures, standings and a knockout bracket | Next.js · TypeScript · Supabase | [Code](https://github.com/riyad-from-space/eFootball-Management) |
-| 🏫 **LU Insights** | Campus companion: bus schedules, live tracking, clubs, exam materials | Flutter · Riverpod · Firebase | [Code](https://github.com/riyad-from-space/LU-Insights) |
+| 🏫 **LU Insights** | Campus companion: bus schedules, transport notices, clubs directory | Flutter · Riverpod · Firebase | [Code](https://github.com/riyad-from-space/LU-Insights) |
 
 ## GitHub activity
 
